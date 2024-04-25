@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}    
+nav{
+    background-color: black;
+    color: white;
+    padding: 55px;
+}
+ul,li{
+    display: inline-block;
+    
+}
+h1{
+    text-align: center;
+}
+ul{
+    margin-left: 550px;
+}
+.box{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 275px;
+
+}
+.foods{
+    text-align: center;
+   padding: 5px;
+
+}
+.order{
+    background-color: white;
+    color: black;
+    display: inline-block:
+    margin-top: 5px;
+}
+.box two{
+    display: inline;
+}
+.box:hover{
+    background-color:black;
+    color:white;
+}
+.contact{
+    background-color: black;
+    color: aliceblue;
+    height: 200px;
+    text-align: center;
+}
+div{
+    padding:0px;
+}
+.one{
+    background-color: yellow;
+    color: gray;
+    display: inline-block;
+    width: 400px;
+    padding:3px;
+}
+.table{
+    padding-top: 1px;
+    text-align: center;
+}
